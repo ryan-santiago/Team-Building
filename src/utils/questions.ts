@@ -69,6 +69,13 @@ const questions = [
         answer: "LAST CODE",
         reward: "CONGRATULATIONS <3",
     },
+    {
+        code: "TEST CODE",
+        title: "Default #1 - Introduction :)",
+        description: `Welcome to the Scavenger Hunt game! This exciting adventure will take you on a journey to search for hidden clues, solve puzzles, and complete challenges to ultimately uncover the ultimate prize. You'll need to put your detective skills to the test as you explore different locations and piece together the clues to progress through the game. Whether you're playing alone or with a team, get ready for a thrilling and unforgettable experience. Good luck and let the hunt begin!`,
+        answer: "TEST",
+        reward: "355",
+    },
   ];
 
   export default questions
